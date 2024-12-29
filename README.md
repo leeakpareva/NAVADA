@@ -6,15 +6,15 @@ Navada is redefining the future of the fashion industry through the innovative a
 **Executive Summary**
 Navada is evolving into a premier digital Web3 agency, providing a suite of services designed to empower the fashion industry. The agency’s core offerings include:
 
-Advisory Services – Tailored guidance on AI and blockchain integrations.
+1, Advisory Services – Tailored guidance on AI and blockchain integrations.
 
-Navada Vault – A secure digital platform enabling tokenized ownership and rental of fashion assets.
+2, Navada Vault – A secure digital platform enabling tokenized ownership and rental of fashion assets.
 
-Strategic Insights – Cutting-edge research and educational initiatives.
+3, Strategic Insights – Cutting-edge research and educational initiatives.
 
 With a focus on collaboration and innovation, Navada’s vision is to bridge the gap between traditional fashion practices and the opportunities presented by the digital age.
-
-Mission Statement
+**
+Mission Statement**
 To empower the fashion industry by delivering cutting-edge Web3 solutions, fostering innovation, and providing actionable insights to navigate the digital transformation effectively.
 
 Business Objectives
