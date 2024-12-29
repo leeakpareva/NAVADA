@@ -1,9 +1,9 @@
- Business Case: Navada Web3 Agency
+** Business Case: Navada Web3 Agency**
 
-Introduction
+**Introduction**
 Navada is redefining the future of the fashion industry through the innovative application of Web3 technology. Positioned at the intersection of fashion and technology, Navada aims to drive value creation by leveraging AI, blockchain, and strategic collaborations. With revenue streams rooted in advisory services, the Navada Vault, and insights into the digital transformation of fashion, Navada is set to lead the charge in modernizing the fashion ecosystem.
 
-Executive Summary
+**Executive Summary**
 Navada is evolving into a premier digital Web3 agency, providing a suite of services designed to empower the fashion industry. The agency’s core offerings include:
 
 Advisory Services – Tailored guidance on AI and blockchain integrations.
