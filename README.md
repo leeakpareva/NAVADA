@@ -14,8 +14,8 @@ Navada is evolving into a premier digital Web3 agency, providing a suite of serv
 
 With a focus on collaboration and innovation, Navada’s vision is to bridge the gap between traditional fashion practices and the opportunities presented by the digital age.
 
-**Mission Statement
-**To empower the fashion industry by delivering cutting-edge Web3 solutions, fostering innovation, and providing actionable insights to navigate the digital transformation effectively.
+**Mission Statement**
+To empower the fashion industry by delivering cutting-edge Web3 solutions, fostering innovation, and providing actionable insights to navigate the digital transformation effectively.
 
 **Business Objectives**
 
